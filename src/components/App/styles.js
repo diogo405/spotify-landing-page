@@ -41,12 +41,11 @@ export const Title = styled.h2`
 export const Subtitle = styled.h3`
   font-size: 16px;
   color: var(--pink);
-  margin-top: 10px;
+  margin: 20px 0;
 `
 export const Price = styled.span`
   font-size: 22px;
   color: white;
-  margin-top: 15px;
 `
 export const Period = styled.span`
   font-size: 14px;
