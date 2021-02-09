@@ -17,4 +17,5 @@ export const Description = styled.h2`
   margin: 30px 0;
   font-size: 14px;
   color: var(--pink);
+  line-height: 18px;
 `
