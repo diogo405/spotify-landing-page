@@ -14,7 +14,7 @@ export const Headline = styled.h1`
   color: white;
 
   @media(max-width: 768px) {
-    font-size: 32px;
+    font-size: 28px;
   }
 `
 export const Description = styled.h2`
