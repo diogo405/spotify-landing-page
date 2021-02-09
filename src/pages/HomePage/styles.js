@@ -8,7 +8,7 @@ export const Wrapper = styled.div`
   margin: 0 auto;
   
   @media(max-width: 768px) {
-    padding: 0 10px 20px 10px;
+    padding: 0 10px 50px 10px;
   }
 `
 export const Grid = styled.div`
